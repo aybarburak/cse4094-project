@@ -1,0 +1,95 @@
+Linear Support Vector Machine : 0
+{'results': (0.933, 0.933, 0.933), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.933, 0.933, 0.933), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.933, 0.933, 0.933), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.933, 0.933, 0.933), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.928, 0.928, 0.928), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.929, 0.929, 0.929), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.928, 0.928, 0.928), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.928, 0.928, 0.928), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.927, 0.927, 0.927), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.927, 0.927, 0.927), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.926, 0.926, 0.926), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.926, 0.926, 0.926), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.926, 0.926, 0.926), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.927, 0.927, 0.927), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.924, 0.924, 0.924), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.924, 0.924, 0.924), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+
+
+Linear Support Vector Machine : 1
+{'results': (0.936, 0.936, 0.936), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.936, 0.936, 0.936), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.936, 0.936, 0.936), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.936, 0.936, 0.936), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.927, 0.927, 0.927), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.927, 0.927, 0.927), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.926, 0.926, 0.926), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.926, 0.926, 0.926), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.923, 0.923, 0.923), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.923, 0.923, 0.923), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.922, 0.922, 0.922), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.922, 0.922, 0.922), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.921, 0.921, 0.921), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.922, 0.922, 0.922), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.919, 0.919, 0.919), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.921, 0.921, 0.921), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+
+
+Linear Support Vector Machine : 2
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.897, 0.897, 0.897), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.895, 0.895, 0.895), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+
+
+Linear Support Vector Machine : 3
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.598, 0.598, 0.598), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.594, 0.594, 0.594), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.592, 0.592, 0.592), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.583, 0.583, 0.583), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+
+
+Linear Support Vector Machine : 4
+{'results': (0.922, 0.922, 0.922), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.922, 0.922, 0.922), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.922, 0.922, 0.922), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.922, 0.922, 0.922), 'parameters': {'loss': 'squared_hinge', 'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.921, 0.921, 0.921), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.92, 0.92, 0.92), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.921, 0.921, 0.921), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.921, 0.921, 0.921), 'parameters': {'loss': 'squared_hinge', 'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.92, 0.92, 0.92), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.92, 0.92, 0.92), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.919, 0.919, 0.919), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.92, 0.92, 0.92), 'parameters': {'loss': 'squared_hinge', 'C': 50, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.92, 0.92, 0.92), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.92, 0.92, 0.92), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': False}}
+{'results': (0.919, 0.919, 0.919), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': False, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+{'results': (0.917, 0.917, 0.917), 'parameters': {'loss': 'squared_hinge', 'C': 100, 'fit_intercept': True, 'penalty': 'l2', 'multi_class': 'ovr', 'dual': True}}
+
+

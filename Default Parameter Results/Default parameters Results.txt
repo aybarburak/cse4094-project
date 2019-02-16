@@ -1,0 +1,43 @@
+Classifier: MultinomialNB(alpha=1.0, class_prior=None, fit_prior=True)
+Feature Set #0
+Results: (0.916, 0.916, 0.916)
+Feature Set #1
+Results: (0.907, 0.907, 0.907)
+Feature Set #2
+Results: (0.893, 0.893, 0.893)
+Feature Set #3
+Results: (0.589, 0.589, 0.589)
+Feature Set #4
+Results: (0.907, 0.907, 0.907)
+
+
+Classifier: LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Feature Set #0
+Results: (0.932, 0.932, 0.932)
+Feature Set #1
+Results: (0.937, 0.937, 0.937)
+Feature Set #2
+Results: (0.896, 0.896, 0.896)
+Feature Set #3
+Results: (0.596, 0.596, 0.596)
+Feature Set #4
+Results: (0.923, 0.923, 0.923)
+
+
+Classifier: LinearSVC(C=1.0, class_weight=None, dual=True, fit_intercept=True,
+     intercept_scaling=1, loss='squared_hinge', max_iter=1000,
+     multi_class='ovr', penalty='l2', random_state=None, tol=0.0001,
+     verbose=0)
+Feature Set #0
+Results: (0.933, 0.933, 0.933)
+Feature Set #1
+Results: (0.936, 0.936, 0.936)
+Feature Set #2
+Results: (0.897, 0.897, 0.897)
+Feature Set #3
+Results: (0.594, 0.594, 0.594)
+Feature Set #4
+Results: (0.922, 0.922, 0.922)
